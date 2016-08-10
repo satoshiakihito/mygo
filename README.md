@@ -1,1 +1,2 @@
 # mygo
+shinjite kudasai
