@@ -11,7 +11,7 @@
     "go.useCodeSnippetsOnFunctionSuggest": false,
     "go.formatOnSave": true,
     "go.formatTool": "goreturns",
-    "go.goroot": "/usr/local/go",
-    "go.gopath": "/Users/lukeh/go",
+    "go.goroot": "C:/Go",
+    "go.gopath": "C:/Go/bin",
     "go.gocodeAutoBuild": false
 }
