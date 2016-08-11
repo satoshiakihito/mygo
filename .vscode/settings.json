@@ -1,0 +1,17 @@
+// Поместите параметры в этот файл, чтобы перезаписать параметры по умолчанию и пользовательские параметры.
+{
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    "go.goroot": "/usr/local/go",
+    "go.gopath": "/Users/lukeh/go",
+    "go.gocodeAutoBuild": false
+}
